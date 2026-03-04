@@ -51,14 +51,6 @@ I build full-stack web applications with clean architecture, proper testing, and
 
 ---
 
-## 📊 GitHub Stats
-
-![Rodney's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssemamb&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssemamb&layout=compact&hide_border=true&langs_count=6)
-
----
-
 ## 📫 Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-ssemamborodney94@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ssemamborodney94@gmail.com)
