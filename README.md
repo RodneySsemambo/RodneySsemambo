@@ -2,7 +2,7 @@
 
 **Laravel & PHP Developer** based in Kampala, Uganda 🇺🇬
 
-I build full-stack web applications with clean architecture, proper testing, and real-world features like payment integrations and real-time chat.
+I build full-stack web applications and restfull APIs with clean architecture, proper testing, and real-world features like payment integrations and real-time chat.
 
 ---
 
