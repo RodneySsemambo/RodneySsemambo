@@ -8,7 +8,7 @@ I build full-stack web applications with clean architecture, proper testing, and
 
 ## 🚀 What I'm Working On
 
-- **[Doctors Booking App](https://github.com/ssemamb/Doctors_Booking_App)** — A full-stack healthcare platform with appointment scheduling, MTN/Airtel mobile money payments, an AI-powered chatbot, and a real-time Livewire UI. Built with Laravel 11, Filament admin, and 31 passing tests.
+- **[Doctors Booking App](https://github.com/RodneySsemambo/Doctors_Booking_App)** — A full-stack healthcare platform with appointment scheduling, MTN/Airtel mobile money payments, an AI-powered chatbot, and a real-time Livewire UI. Built with Laravel 11, Filament admin, and 31 passing tests.
 
 ---
 
@@ -47,7 +47,7 @@ I build full-stack web applications with clean architecture, proper testing, and
 
 **Stack:** Laravel 11 · Livewire · Filament · MySQL · Docker · PHPUnit
 
-[View Repository](https://github.com/ssemamb/Doctors_Booking_App) · [Live Demo](#) ← add your Render URL here
+[View Repository](https://github.com/RodneySsemambo/Doctors_Booking_App) · [Live Demo](#) ← add your Render URL here
 
 ---
 
