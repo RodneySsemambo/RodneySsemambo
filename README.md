@@ -54,7 +54,7 @@ I build full-stack web applications and restfull APIs with clean architecture, p
 ## 📫 Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-ssemamborodney94@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ssemamborodney94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) ← add your LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ssemambo-rodney-3b4b223b7) ← add your LinkedIn
 [![Location](https://img.shields.io/badge/Location-Kampala%2C%20Uganda-green?style=flat&logo=google-maps&logoColor=white)]()
 
 ---
