@@ -47,7 +47,7 @@ I build full-stack web applications and restfull APIs with clean architecture, p
 
 **Stack:** Laravel 11 · Livewire · Filament · MySQL · Docker · PHPUnit
 
-[View Repository](https://github.com/RodneySsemambo/Doctors_Booking_App) · [Live Demo](#) ← add your Render URL here
+[View Repository](https://github.com/RodneySsemambo/Doctors_Booking_App) · [Live Demo](doctors-booking-app-production.up.railway.app/login) 
 
 ---
 
